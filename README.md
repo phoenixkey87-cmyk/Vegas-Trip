@@ -14,7 +14,7 @@
 | **Check-out** | Sun Nov 15, 11:00 AM |
 | **Flights** | Frontier F93107/F93108 — STL↔LAS, direct |
 | **Concert** | Jeezy: Legend of the Snowman — Sat Nov 14, PH Live at Planet Hollywood |
-| **Nightlife** | Drai's After Hours — Fri night (1 AM–6 AM) |
+| **Nightlife** | TBD — need replacement club (Drai's closed in November) |
 | **Dinner** | Bistecca Italian Steakhouse or Bacchanal Buffet (Fri) |
 | **Pool** | Flamingo Go Pool (heated, 21+) — Drai's pool CLOSED in November |
 
@@ -26,7 +26,7 @@
 - [x] Flights booked (Frontier, direct STL↔LAS)
 - [ ] Jeezy concert tickets
 - [ ] Bistecca/Bacchanal dinner reservation
-- [ ] Drai's guest list signup
+- [ ] Find replacement nightclub (Drai's closed)
 - [ ] All-inclusive package decision (code ALL2G — deadline Aug 31!)
 - [ ] PTO entered
 
@@ -40,14 +40,14 @@
 | Flights | $556 | $278 |
 | **Confirmed** | **$1,166** | **$583** |
 | Dinner (est.) | ~$140–200 | ~$70–100 |
-| Drai's (est.) | ~$60–100 | ~$30–50 |
+| Nightclub (TBD) | ~$40–100 | ~$20–50 |
 | Jeezy tickets | TBD | TBD |
 
 ---
 
 ## Notes
 
-- Drai's Beachclub (pool party) is **CLOSED** in November — use Flamingo Go Pool
+- Drai's (pool AND nightclub) is **CLOSED** in November — need a replacement club for Friday night
 - All-inclusive package (code ALL2G) must be booked by **Aug 31, 2026** if upgrading
 - Return flight is 7:15 AM — pack the night before!
 - Frontier = personal item only (no free carry-on or checked bag)
